@@ -286,11 +286,6 @@ Full-Width Styles
 
 #header_wrap {
   background: #FF6600;
-  background: -moz-linear-gradient(top,#FF6600,#f2f2f2);
-  background: -webkit-linear-gradient(top, #373737, #FF6600);
-  background: -ms-linear-gradient(top, #373737, #FF6600);
-  background: -o-linear-gradient(top, #373737, #FF6600);
-  background: linear-gradient(top, #373737, #FF6600);
 }
 
 #header_wrap .inner {
@@ -300,7 +295,7 @@ Full-Width Styles
 #project_title {
   margin: 0;
   color: #FFF;
-  text-shadow: #111 0px 0px 1px;
+  text-shadow: #111 1px 1px 1px;
   font-size: 42px;
   font-weight: 700;
 }
